@@ -1,10 +1,22 @@
-task_0:
- video_path: "data/video/yongen.mp4"
- audio_path: "data/audio/yongen.wav"
+# task_0:
+#  video_path: "data/video/yongen.mp4"
+#  audio_path: "data/audio/yongen.wav"
 
-task_1:
- video_path: "data/video/yongen.mp4"
- audio_path: "data/audio/eng.wav"
- bbox_shift: -7
+# task_1:
+#  video_path: "data/video/yongen.mp4"
+#  audio_path: "data/audio/eng.wav"
+#  bbox_shift: -7
   
 
+# task_0:
+#  video_path: "data/video/csc.png"
+#  audio_path: "data/audio/csc.mp3"
+
+# task_1:
+#  video_path: "data/video/csc_mp4.mp4"
+#  audio_path: "data/audio/csc.mp3"
+
+
+task_0:
+ video_path: "data/video/male2_1080_1920_30fps.mp4"
+ audio_path: "data/audio/csc.mp3"
